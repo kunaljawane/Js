@@ -1,0 +1,42 @@
+JavaScript is an Interpreted language while java is compile time
+It is and scripting language 
+object based
+can be run on every browser
+
+Js ENgine:
+every browser has js engine to run js
+chrome-v8
+edge-chakra
+mozilla-spider monkey
+
+DOM:document object model
+
+Async-when we dont have any script blocked and need to execute all script at a time 
+defer-when we need to run script in order then we use the defere
+
+Case sensetive
+Need to use semicolon for ending sentence
+it is dynamically types language no need to metntion datatype for vars
+
+
+For making variable:
+we can use 3 types of keyword for that
+1)let-
+    generally used 
+    we can modify it later
+2)var-
+    we can modify it later
+3)const-
+    we cant modify it later
+
+Operator:
+when we need to perform some operation on the operand
+Assignment a=6 
+
+== check for value
+=== strict equal check for data types also
+
+
+    
+
+
